@@ -11,7 +11,7 @@ Obviously a perfect commercial success!
 
 80 Golang net/http server
 
-# Enumaration
+# Enumeration
 
 Gobuster found a `/admin` directory with a login form
 
