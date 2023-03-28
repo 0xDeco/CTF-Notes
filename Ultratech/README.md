@@ -97,6 +97,8 @@ We can cat it and get the hashed passwords of two users
 
 `r00t` and `admin`
 
+# Privilege escalation
+
 After logging in with ssh
 
 We find ourselves in a docker container 
