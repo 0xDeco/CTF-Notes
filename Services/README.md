@@ -69,7 +69,7 @@ Whenever you are ready, click on the Start Machine button to fire up the Virtual
 
 # Enumeration
 
-This is a Windows machine that seems to be an AD Domain Controller, you need to add the domain to the `etc/hosts` file
+This is a Windows machine that seems to be AD domain joined, you need to add the domain to the `etc/hosts` file
 
 In the `http://services.local/about.html` page we can see possible usernames
 
